@@ -1,3 +1,3 @@
 # N-Queens-Solver
 
-This website shows the visualised solutions to the N-Queens problem.
+This website shows the visualised solutions of the N-Queens problem.
